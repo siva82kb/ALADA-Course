@@ -29,6 +29,7 @@ Here are the up-to-date lecture slides
 19. Application: Neuromechanics, Radiotherapy
 20. Introduction to Probability
 21. Introduction to Statistics
+22. Outro
 
 ### Course Notes
 The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
@@ -59,5 +60,6 @@ Sl. No | Topic | Problems | Due Date
 
 ### Exam Dates
 **Mid-Semester Exam:** 15 October 2024, 7:30 - 8:30 AM
+
 **Final Exam:** 21 December 2024, 7:30 - 10:30 AM
 
