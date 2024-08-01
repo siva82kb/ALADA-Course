@@ -34,6 +34,9 @@ Here are the up-to-date lecture slides
 ### Course Notes
 The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
 
+### Lecture Videos
+These will be uploaded after each in-class lecture.
+
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf).
 
