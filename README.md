@@ -8,7 +8,7 @@ The course information document is here: [Course Information](info.pdf)
 ### Lecture Slides
 Here are the up-to-date lecture slides
 1. [Introduction](lecture_slides/00-why_do_this_course.pdf)
-2. [Vectors](lecture_slides/01-vectors.pdf)
+2. [Vectors](lecture_slides/01-vector-spaces.pdf)
 3. [Matrices](lecture_slides/02-matrices.pdf)
 4. [Solution to Linear Equation](lecture_slides/03-solnslineareqns.pdf)
 5. [Orthogonality](lecture_slides/04-orthogonality.pdf)
