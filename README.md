@@ -35,7 +35,7 @@ Here are the up-to-date lecture slides
 The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
 
 ### ALADA in One Page
-A one-page summary of the course can be found [here](onepage.pdf). This document is still a work in progress. We will update this as we progress through the course. You are encouraged to keep a copy of this document with you on your laptop or your phone for quick reference during class.
+A one-page summary of the course can be found [here](notes/onepage.pdf). This document is still a work in progress. We will update this as we progress through the course. You are encouraged to keep a copy of this document with you on your laptop or your phone for quick reference during class.
 
 ### Lecture Videos
 These will be uploaded after each in-class lecture.
