@@ -3,4 +3,5 @@
 *.pyc
 pull_updates.py
 
+__pycache__/*
 case_studies/data/*
