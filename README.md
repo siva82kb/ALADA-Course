@@ -38,7 +38,7 @@ The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
 These will be uploaded after each in-class lecture.
 
 ### Assignments
-All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf).
+All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
 
 Sl. No | Topic | Problems | Due Date
@@ -61,8 +61,10 @@ Sl. No | Topic | Problems | Due Date
  16 | Linear Programming | | 15 Dec 2024
  17 | Probability & Statistics | | 15 Dec 2024
 
+### Submission Link
+All assignments must be submitted as soft copies on the [submission portal]().
+
 ### Exam Dates
 **Mid-Semester Exam:** 15 October 2024, 7:30 - 8:30 AM
 
 **Final Exam:** 21 December 2024, 7:30 - 10:30 AM
-
