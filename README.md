@@ -38,7 +38,9 @@ The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
 A one-page summary of the course can be found [here](notes/onepage.pdf). This document is still a work in progress. We will update this as we progress through the course. You are encouraged to keep a copy of this document with you on your laptop or your phone for quick reference during class.
 
 ### Lecture Videos
-These will be uploaded after each in-class lecture.
+The lecture videos for the course can be found here: 
+1. [Lecture 1](https://youtu.be/RFObXkkr-_E?si=DImrQAcAydmDewWU)
+
 
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
