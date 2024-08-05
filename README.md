@@ -40,6 +40,7 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Lecture Videos
 The lecture videos for the course can be found here: 
 1. [Lecture 1](https://youtu.be/RFObXkkr-_E?si=DImrQAcAydmDewWU)
+2. [Lecture 2](https://youtu.be/-1B-MkUG2T0?feature=shared)
 
 
 ### Assignments
