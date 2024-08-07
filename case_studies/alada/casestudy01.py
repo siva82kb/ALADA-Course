@@ -16,4 +16,4 @@ create_data_folder = lambda: datadir.mkdir(parents=True, exist_ok=True)
 # Data check function
 check_dataset = lambda: ("Success! You can run this notebook."
                          if pathlib.Path(datadir / "reports.csv").is_file()
-                         else "Falied! Check the instructions. Else contact the TAs.")
+                         else "Falied! Check the instructions, else contact the TAs.")
