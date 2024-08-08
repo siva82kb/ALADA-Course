@@ -5,26 +5,41 @@
 The course information document is here: [Course Information](info.pdf)
 
 
-### Lecture Slides
-Here are the up-to-date lecture slides
-1. [Introduction](lecture_slides/00-why_do_this_course.pdf)
-2. [Vectors](lecture_slides/01-vector-spaces.pdf)
-3. [Matrices](lecture_slides/02-matrices.pdf)
-4. [Solution to Linear Equation](lecture_slides/03-solnslineareqns.pdf)
-5. [Orthogonality](lecture_slides/04-orthogonality.pdf)
-6. [Matrix Inverses](lecture_slides/05-matrixinverses.pdf)
-7. [Application: Signal Processing](lecture_slides/06-signalprocessing)
-7. [Eigenvalues and Eigenvectors](lecture_slides/07-eigenvalvec.pdf)
-8. [Positive Definiteness and Matrix Norms](lecture_slides/08-pdmatnorm.pdf)
-9. [Application: Linear Dynamical Systems](lecture_slides/09-lds.pdf)
-10. [Singular Value Decomposition](lecture_slides/10-svd.pdf)
-11. [Application: Dimensionality Reduction & PCA](lecture_slides/11-dimredpca.pdf)
-12. [Unconstrained Optimization](lecture_slides/12-opt.pdf)
-13. [Constrained Optimization](lecture_slides/13-constopt.pdf)
-14. Additional Topics in Optimization
-15. [Linear Least Squares & its Variants](lecture_slides/15-leastsquares.pdf)
-16. Application: Signal/Image Processing
-17. Application: Machine Learning
+### Course Modules
+
+1. Introduction \
+[Lecture Slides](lecture_slides/00-why_do_this_course.pdf) 
+2. Vectors \
+[Lecture Slides](lecture_slides/01-vector-spaces.pdf) | Video lectures: [[1]](https://youtu.be/RFObXkkr-_E?feature=shared) [[2]](https://youtu.be/-1B-MkUG2T0?feature=shared) [[3]](https://youtu.be/pcbpJQaUvjo?feature=shared)
+3. Matrices \
+[Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) 
+4. Solution to Linear Equation \
+[Lecture Slides](lecture_slides/03-solnslineareqns.pdf)
+5. Orthogonality \
+[Lecture Slides](lecture_slides/04-orthogonality.pdf)
+6. Matrix Inverses \
+[Lecture Slides](lecture_slides/05-matrixinverses.pdf)
+7. Application: Signal Processing \
+[Lecture Slides](lecture_slides/06-signalprocessing)
+7. Eigenvalues and Eigenvectors \
+[Lecture Slides](lecture_slides/07-eigenvalvec.pdf)
+8. Positive Definiteness and Matrix Norms \
+[Lecture Slides](lecture_slides/08-pdmatnorm.pdf)
+9. Application: Linear Dynamical Systems \
+[Lecture Slides](lecture_slides/09-lds.pdf)
+10. Singular Value Decomposition \
+[Lecture Slides](lecture_slides/10-svd.pdf)
+11. Application: Dimensionality Reduction & PCA \
+[Lecture Slides](lecture_slides/11-dimredpca.pdf)
+12. Unconstrained Optimization \
+[Lecture Slides](lecture_slides/12-opt.pdf)
+13. Constrained Optimization \
+[Lecture Slides](lecture_slides/13-constopt.pdf)
+14. Additional Topics in Optimization 
+15. Linear Least Squares & its Variants \
+[Lecture Slides](lecture_slides/15-leastsquares.pdf)
+16. Application: Signal/Image Processing 
+17. Application: Machine Learning 
 18. Linear Programming & Simplex Method
 19. Application: Neuromechanics, Radiotherapy
 20. Introduction to Probability
@@ -36,12 +51,6 @@ The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
 
 ### ALADA in One Page
 A one-page summary of the course can be found [here](notes/onepage.pdf). This document is still a work in progress. We will update this as we progress through the course. You are encouraged to keep a copy of this document with you on your laptop or your phone for quick reference during class.
-
-### Lecture Videos
-The lecture videos for the course can be found here: 
-1. [Lecture 1](https://youtu.be/RFObXkkr-_E?si=DImrQAcAydmDewWU)
-2. [Lecture 2](https://youtu.be/-1B-MkUG2T0?feature=shared)
-
 
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
