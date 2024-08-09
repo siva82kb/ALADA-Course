@@ -55,7 +55,6 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-
 Sl. No | Topic | Problems | Due Date
 :---: | :---: | :---: | :---:
  1 | Vectors | Ch: 1, Ex: 1-13 | 30 Sep 2024
@@ -75,6 +74,9 @@ Sl. No | Topic | Problems | Due Date
  15 | Machine Learning | | 30 Nov 2024
  16 | Linear Programming | | 15 Dec 2024
  17 | Probability & Statistics | | 15 Dec 2024
+
+### Tutorials
+We will have regular tutorial sessions to solve problems in class on topics covered until that point. The tutorials file is available [here](assignments/tutorial.pdf)
 
 ### Submission Link
 All assignments must be submitted as soft copies on the [submission portal]().
