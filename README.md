@@ -12,7 +12,7 @@ The course information document is here: [Course Information](info.pdf)
 2. Vectors \
 [Lecture Slides](lecture_slides/01-vector-spaces.pdf) | Video lectures: [[1]](https://youtu.be/RFObXkkr-_E?feature=shared) [[2]](https://youtu.be/-1B-MkUG2T0?feature=shared) [[3]](https://youtu.be/pcbpJQaUvjo?feature=shared)
 3. Matrices \
-[Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) 
+[Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) [[2]](https://youtu.be/ZVqRk5lwkLg?feature=shared)
 4. Solution to Linear Equation \
 [Lecture Slides](lecture_slides/03-solnslineareqns.pdf)
 5. Orthogonality \
