@@ -14,7 +14,7 @@ The course information document is here: [Course Information](info.pdf)
 3. Matrices \
 [Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) [[2]](https://youtu.be/ZVqRk5lwkLg?feature=shared)
 4. Solution to Linear Equation \
-[Lecture Slides](lecture_slides/03-solnslineareqns.pdf)
+[Lecture Slides](lecture_slides/03-solnslineareqns.pdf) | Video lectures: [[1]](https://youtu.be/eaQkGHJmHvU?feature=shared) [[2]](https://youtu.be/ckNeoC-_kSQ?feature=shared)
 5. Orthogonality \
 [Lecture Slides](lecture_slides/04-orthogonality.pdf)
 6. Matrix Inverses \
