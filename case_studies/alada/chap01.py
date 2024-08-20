@@ -6,7 +6,7 @@ Date: 09 July 2024
 """
 
 import numpy as np
-import polars as pl
+
 
 # k-mean clustering algorithm
 class KMeans(object):
@@ -69,7 +69,7 @@ class KMeans(object):
             for i, _ci in enumerate(_cinx)
         ])
 
-    def fit(self, max_iter: int = 100, cost_change_th: float = 1) -> tuple[np.array, np.array]:
+    def fit(self, max_iter: int = 100, cost_change_th: float = 1, seed=None) -> tuple[np.array, np.array, np.array]:
         """Fit the k-means model to the data.
 
         Parameters
@@ -79,12 +79,22 @@ class KMeans(object):
         cost_change_th : float, optional
             Cost change threshold to stop the algorithm, by default 1%. A change 
             in the cost less thatn 1% will terminate the iteration.
+        
+        Returns
+        -------
+        tuple[np.array, np.array, np.array]
+            Tuple containing the cluster means, cluster assignments, and cost 
+            for each iteration. The first index in each of these arrays corresponds 
+            to the iteration number.
         """
         # reset centroids, cluster assignments, and cost
         self.centroids = None
         self.clustassign = None
         self.J = None
         # initialize centroids
+        # set seed if its a valid value, else ignore
+        if seed is not None:
+            np.random.seed(seed)
         _inx = np.random.choice(self.X.shape[0], self.k, replace=False)
         self.centroids = self.X[_inx, :]
         # get cluster assignment
