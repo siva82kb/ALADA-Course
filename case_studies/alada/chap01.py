@@ -6,12 +6,13 @@ Date: 09 July 2024
 """
 
 import numpy as np
+from typing import Callable
 
 
 # k-mean clustering algorithm
 class KMeans(object):
 
-    def __init__(self, X: np.array, k: int) -> None:
+    def __init__(self, X: np.array, k: int, distfunc: Callable=None) -> None:
         """Initialize the k-means model.
         
         Parameters
@@ -21,11 +22,16 @@ class KMeans(object):
             number of samples, and M corresponding to the number of features.
         k : int
             Number of clusters to form.
+        distfunc : Callable, optional
+            Function to compute the similarity between two data points. This 
+            function should take two n-vectors as input and return a scalar 
+            value as output.
         """
         self.k = k
         self.X = X
         self.centroids = None
         self.clustassign = None
+        self.distfunc = distfunc
         self.J = None
     
     def _get_cluster_assignment(self) -> np.array:
@@ -36,6 +42,11 @@ class KMeans(object):
         np.array
             Array containing the cluster assignment for each data point.
         """
+        if self.distfunc is not None:
+            return np.array([
+                np.argmin([self.distfunc(_x, _c) for _c in self.centroids])
+                for _x in self.X
+            ])
         return np.array([
             np.argmin(np.linalg.norm(self.centroids - _x, axis=1))
             for _x in self.X
