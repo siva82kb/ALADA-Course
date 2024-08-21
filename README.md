@@ -62,20 +62,21 @@ Sl. No | Topic | Problems | Due Date
  1 | Vectors | Ch: 1, Ex: 1-13 | 30 Sep 2024
  2 | Matrices  | | 30 Sep 2024
  3 | Solution to Linear Equations | | 30 Sep 2024
- 4 | Orthogonality | | 30 Sep 2024
- 5 | Matrix Inverses | | 30 Sep 2024
- 6 | Signal Processing | | 30 Sep 2024
- 7 | Eigenvectors and Eigenvalues | | 31 Oct 2024
- 8 | Linear Dynamical Systems | | 31 Oct 2024
- 9 | Positive Definite Matrices | | 31 Oct 2024
- 10 | SVD | | 31 Oct 2024
- 11 | Dimensionality Reduction | | 31 Oct 2024
- 12 | Optimization | | 30 Nov 2024
- 13 | Linear Least Squares | | 30 Nov 2024
- 14 | Signal Processing | | 30 Nov 2024
- 15 | Machine Learning | | 30 Nov 2024
- 16 | Linear Programming | | 15 Dec 2024
- 17 | Probability & Statistics | | 15 Dec 2024
+ 4 | Case Study 01 | [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb) | 30 Sep 2024
+ 5 | Orthogonality | | 30 Sep 2024
+ 6 | Matrix Inverses | | 30 Sep 2024
+ 7 | Signal Processing | | 30 Sep 2024
+ 8 | Eigenvectors and Eigenvalues | | 31 Oct 2024
+ 9 | Linear Dynamical Systems | | 31 Oct 2024
+ 10 | Positive Definite Matrices | | 31 Oct 2024
+ 11 | SVD | | 31 Oct 2024
+ 12 | Dimensionality Reduction | | 31 Oct 2024
+ 13 | Optimization | | 30 Nov 2024
+ 14 | Linear Least Squares | | 30 Nov 2024
+ 15 | Signal Processing | | 30 Nov 2024
+ 16 | Machine Learning | | 30 Nov 2024
+ 17 | Linear Programming | | 15 Dec 2024
+ 18 | Probability & Statistics | | 15 Dec 2024
 
 ### Tutorials
 We will have regular tutorial sessions to solve problems in class on topics covered until that point. The tutorials file is available [here](assignments/tutorial.pdf)
