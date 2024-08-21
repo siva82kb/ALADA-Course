@@ -20,7 +20,7 @@ conda activate alada
 You should now be able to run the different scripts to open the animations and interact with them.
 
 ### K-Mean Algorithm
-**k-Means Demo**: [`kmeans_demo.py`](https://github.com/siva82kb/aladaanim/blob/main/animations/kmeans_demo.py)
+**k-Means Demo**: [`kmeans_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/kmeans_demo.py)
 
 <!-- ### Continuous Optimization Animations
 The following animations are available for the continuous optimization section:
