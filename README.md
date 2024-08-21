@@ -85,3 +85,6 @@ All assignments must be submitted as soft copies on the [submission portal]().
 **Mid-Semester Exam:** 15 October 2024, 7:30 - 8:30 AM
 
 **Final Exam:** 21 December 2024, 7:30 - 10:30 AM
+
+## ALADA Animations
+The repository also has a set of interactive animations to demonstrate some of the concepts covered in the course. You can find details about these animations [here](aladaanim.md).
