@@ -15,36 +15,38 @@ The course information document is here: [Course Information](info.pdf)
 [Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) [[2]](https://youtu.be/ZVqRk5lwkLg?feature=shared)
 4. Solution to Linear Equation \
 [Lecture Slides](lecture_slides/03-solnslineareqns.pdf) | Video lectures: [[1]](https://youtu.be/eaQkGHJmHvU?feature=shared) [[2]](https://youtu.be/ckNeoC-_kSQ?feature=shared)
-5. Orthogonality \
+5. Case Study 01 + Applications \
+[Lecture Slides](lecture_slides/casestudy-01.pdf) | Notebooks: [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb)
+6. Orthogonality \
 [Lecture Slides](lecture_slides/04-orthogonality.pdf)
-6. Matrix Inverses \
+7. Matrix Inverses \
 [Lecture Slides](lecture_slides/05-matrixinverses.pdf)
-7. Application: Signal Processing \
+8. Application: Signal Processing \
 [Lecture Slides](lecture_slides/06-signalprocessing)
-7. Eigenvalues and Eigenvectors \
+9. Eigenvalues and Eigenvectors \
 [Lecture Slides](lecture_slides/07-eigenvalvec.pdf)
-8. Positive Definiteness and Matrix Norms \
+10. Positive Definiteness and Matrix Norms \
 [Lecture Slides](lecture_slides/08-pdmatnorm.pdf)
-9. Application: Linear Dynamical Systems \
+11. Application: Linear Dynamical Systems \
 [Lecture Slides](lecture_slides/09-lds.pdf)
-10. Singular Value Decomposition \
+12. Singular Value Decomposition \
 [Lecture Slides](lecture_slides/10-svd.pdf)
-11. Application: Dimensionality Reduction & PCA \
+13. Application: Dimensionality Reduction & PCA \
 [Lecture Slides](lecture_slides/11-dimredpca.pdf)
-12. Unconstrained Optimization \
+14. Unconstrained Optimization \
 [Lecture Slides](lecture_slides/12-opt.pdf)
-13. Constrained Optimization \
+15. Constrained Optimization \
 [Lecture Slides](lecture_slides/13-constopt.pdf)
-14. Additional Topics in Optimization 
-15. Linear Least Squares & its Variants \
+16. Additional Topics in Optimization 
+17. Linear Least Squares & its Variants \
 [Lecture Slides](lecture_slides/15-leastsquares.pdf)
-16. Application: Signal/Image Processing 
-17. Application: Machine Learning 
-18. Linear Programming & Simplex Method
-19. Application: Neuromechanics, Radiotherapy
-20. Introduction to Probability
-21. Introduction to Statistics
-22. Outro
+18. Application: Signal/Image Processing 
+19. Application: Machine Learning 
+20. Linear Programming & Simplex Method
+21. Application: Neuromechanics, Radiotherapy
+22. Introduction to Probability
+23. Introduction to Statistics
+24. Outro
 
 ### Course Notes
 The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
