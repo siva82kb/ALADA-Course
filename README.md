@@ -58,8 +58,8 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
 1. **Assignment 01** [**30 Sep 2024**] \
-    1.1 Vectors | Problems: Ch: 1, Ex: 1-13 | Data: [expt1.csv](assignments/vectors/expt1.csv) \
-    1.2. Matrices | Problems: Ch: 2, Ex: 1-13 \
+    1.1 Vectors | Problems: Ch: 1, Ex: 6-13 | Data: [expt1.csv](assignments/vectors/expt1.csv) \
+    1.2. Matrices | Problems: Ch: 2, Ex: 7-13 \
     1.3. Solution to Linear \
     1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
     1.5. Orthogonality
