@@ -4,7 +4,7 @@
 
 The course information document is here: [Course Information](info.pdf)
 
-### Course TAs
+### Course TAs (Aug 2024)
 <p align="left">
   <img src="tas/parvathy.png" alt="Paravthy" width="100"/>
   <img src="tas/sujithc.png" alt="Sujith" width="100"/>
@@ -14,9 +14,9 @@ The course information document is here: [Course Information](info.pdf)
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Parvathy N</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Sujith C</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Diwakar BR</span> &nbsp;&nbsp;&nbsp;
-  <span>Neelakshi G</span> 
+  <span><a href="https://github.com/SujithChristopher">Sujith C</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="https://github.com/bkdiwakar34">Diwakar BR</a></span> &nbsp;&nbsp;&nbsp;
+  <span><a href="">Neelakshi G</a></span> 
 </p>
 
 
