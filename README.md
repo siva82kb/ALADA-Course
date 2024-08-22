@@ -57,26 +57,31 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-Sl. No | Topic | Problems | Due Date
-:---: | :---: | :---: | :---:
- 1 | Vectors | Ch: 1, Ex: 1-13 | 30 Sep 2024
- 2 | Matrices  | | 30 Sep 2024
- 3 | Solution to Linear Equations | | 30 Sep 2024
- 4 | Case Study 01 | [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb) | 30 Sep 2024
- 5 | Orthogonality | | 30 Sep 2024
- 6 | Matrix Inverses | | 30 Sep 2024
- 7 | Signal Processing | | 30 Sep 2024
- 8 | Eigenvectors and Eigenvalues | | 31 Oct 2024
- 9 | Linear Dynamical Systems | | 31 Oct 2024
- 10 | Positive Definite Matrices | | 31 Oct 2024
- 11 | SVD | | 31 Oct 2024
- 12 | Dimensionality Reduction | | 31 Oct 2024
- 13 | Optimization | | 30 Nov 2024
- 14 | Linear Least Squares | | 30 Nov 2024
- 15 | Signal Processing | | 30 Nov 2024
- 16 | Machine Learning | | 30 Nov 2024
- 17 | Linear Programming | | 15 Dec 2024
- 18 | Probability & Statistics | | 15 Dec 2024
+1. <span style="color:#195382"><b>Assignment 01</b></span> [**30 Sep 2024**]
+    1.1 <span style="color:#B30000">Vectors</span> | <span style="color:#B30000">Problems</span>: Ch: 1, Ex: 1-13 | <span style="color:#B30000">Data</span>: [expt1.csv](assignments/vectors/expt1.csv) 
+    1.2. <span style="color:#B30000">Matrices</span> | <span style="color:#B30000">Problems</span>: Ch: 2, Ex: 1-13
+    1.3. <span style="color:#B30000">Solution to Linear</span>
+    1.4. <span style="color:#B30000">Case Study 01</span> | <span style="color:#B30000">Problems</span>: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | <span style="color:#B30000">Data</span>: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt)
+    1.5. <span style="color:#B30000">Orthogonality</span>
+
+2. <span style="color:#195382"><b>Assignment 02</b></span> [**31 Oct 2024**]
+    2.1. <span style="color:#B30000">Matrix Inverses</span>
+    2.2. <span style="color:#B30000">Signal Processing</span>
+    2.3. <span style="color:#B30000">Eigenvectors and Eigenvalues</span>
+    2.4. <span style="color:#B30000">Linear Dynamical Systems</span>
+    2.5. <span style="color:#B30000">Positive Definite Matrices</span>
+    2.6. <span style="color:#B30000">SVD</span>
+    2.7. <span style="color:#B30000">Dimensionality Reduction</span>
+
+3. <span style="color:#195382"><b>Assignment 03</b></span> [**30 Nov 2024**]
+    3.1. <span style="color:#B30000">Optimization</span>
+    3.2. <span style="color:#B30000">Linear Least Squares</span>
+    3.3. <span style="color:#B30000">Signal Processing</span>
+    3.4. <span style="color:#B30000">Machine Learning</span>
+
+4. <span style="color:#195382"><b>Assignment 04</b></span> [**15 Dec 2024**]
+    4.1. <span style="color:#B30000">Linear Programming</span>
+    4.2. <span style="color:#B30000">Probability & Statistics</span>
 
 ### Tutorials
 We will have regular tutorial sessions to solve problems in class on topics covered until that point. The tutorials file is available [here](assignments/tutorial.pdf)
