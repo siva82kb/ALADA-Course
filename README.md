@@ -65,22 +65,22 @@ All assignment-related information is available in the assignments folder of the
     1.5. <span style="color:#B30000">Orthogonality</span>
 
 2. <span style="color:#195382"><b>Assignment 02</b></span> [**31 Oct 2024**] \
-    2.1. <span style="color:#B30000">Matrix Inverses</span>
-    2.2. <span style="color:#B30000">Signal Processing</span>
-    2.3. <span style="color:#B30000">Eigenvectors and Eigenvalues</span>
-    2.4. <span style="color:#B30000">Linear Dynamical Systems</span>
-    2.5. <span style="color:#B30000">Positive Definite Matrices</span>
-    2.6. <span style="color:#B30000">SVD</span>
-    2.7. <span style="color:#B30000">Dimensionality Reduction</span>
+    2.1. <span style="color:#B30000">Matrix Inverses</span> \
+    2.2. <span style="color:#B30000">Signal Processing</span> \
+    2.3. <span style="color:#B30000">Eigenvectors and Eigenvalues</span> \
+    2.4. <span style="color:#B30000">Linear Dynamical Systems</span> \
+    2.5. <span style="color:#B30000">Positive Definite Matrices</span> \
+    2.6. <span style="color:#B30000">SVD</span> \
+    2.7. <span style="color:#B30000">Dimensionality Reduction</span> \
 
 3. <span style="color:#195382"><b>Assignment 03</b></span> [**30 Nov 2024**] \ 
-    3.1. <span style="color:#B30000">Optimization</span>
-    3.2. <span style="color:#B30000">Linear Least Squares</span>
-    3.3. <span style="color:#B30000">Signal Processing</span>
-    3.4. <span style="color:#B30000">Machine Learning</span>
+    3.1. <span style="color:#B30000">Optimization</span> \
+    3.2. <span style="color:#B30000">Linear Least Squares</span> \
+    3.3. <span style="color:#B30000">Signal Processing</span> \
+    3.4. <span style="color:#B30000">Machine Learning</span> \
 
 4. <span style="color:#195382"><b>Assignment 04</b></span> [**15 Dec 2024**] \ 
-    4.1. <span style="color:#B30000">Linear Programming</span>
+    4.1. <span style="color:#B30000">Linear Programming</span> \
     4.2. <span style="color:#B30000">Probability & Statistics</span>
 
 ### Tutorials
