@@ -4,6 +4,21 @@
 
 The course information document is here: [Course Information](info.pdf)
 
+### Course TAs
+<p align="left">
+  <img src="tas/parvathy.png" alt="Paravthy" width="100"/>
+  <img src="tas/sujithc.png" alt="Sujith" width="100"/>
+  <img src="tas/diwakar.png" alt="Diwakar" width="100"/>
+  <img src="tas/neelakshi.png" alt="Neelakshi" width="100"/>
+</p>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Parvathy N</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Sujith C</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span>Diwakar BR</span> &nbsp;&nbsp;&nbsp;
+  <span>Neelakshi G</span> 
+</p>
+
 
 ### Course Modules
 
