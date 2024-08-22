@@ -16,7 +16,7 @@ The course information document is here: [Course Information](info.pdf)
 4. Solution to Linear Equation \
 [Lecture Slides](lecture_slides/03-solnslineareqns.pdf) | Video lectures: [[1]](https://youtu.be/eaQkGHJmHvU?feature=shared) [[2]](https://youtu.be/ckNeoC-_kSQ?feature=shared)
 5. Case Study 01 + Applications \
-[Lecture Slides](lecture_slides/casestudy-01.pdf) | Notebooks: [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb)
+[Lecture Slides](lecture_slides/casestudy-01.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=oHCQBrHUPBg) | Notebooks: [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb)
 6. Orthogonality \
 [Lecture Slides](lecture_slides/04-orthogonality.pdf)
 7. Matrix Inverses \
