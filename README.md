@@ -57,14 +57,14 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-1. <span style="color:#195382"><b>Assignment 01</b></span> [**30 Sep 2024**]
+1. <span style="color:#195382"><b>Assignment 01</b></span> [**30 Sep 2024**] \
     1.1 <span style="color:#B30000">Vectors</span> | <span style="color:#B30000">Problems</span>: Ch: 1, Ex: 1-13 | <span style="color:#B30000">Data</span>: [expt1.csv](assignments/vectors/expt1.csv) 
     1.2. <span style="color:#B30000">Matrices</span> | <span style="color:#B30000">Problems</span>: Ch: 2, Ex: 1-13
     1.3. <span style="color:#B30000">Solution to Linear</span>
     1.4. <span style="color:#B30000">Case Study 01</span> | <span style="color:#B30000">Problems</span>: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | <span style="color:#B30000">Data</span>: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt)
     1.5. <span style="color:#B30000">Orthogonality</span>
 
-2. <span style="color:#195382"><b>Assignment 02</b></span> [**31 Oct 2024**]
+2. <span style="color:#195382"><b>Assignment 02</b></span> [**31 Oct 2024**] \
     2.1. <span style="color:#B30000">Matrix Inverses</span>
     2.2. <span style="color:#B30000">Signal Processing</span>
     2.3. <span style="color:#B30000">Eigenvectors and Eigenvalues</span>
@@ -73,13 +73,13 @@ All assignment-related information is available in the assignments folder of the
     2.6. <span style="color:#B30000">SVD</span>
     2.7. <span style="color:#B30000">Dimensionality Reduction</span>
 
-3. <span style="color:#195382"><b>Assignment 03</b></span> [**30 Nov 2024**]
+3. <span style="color:#195382"><b>Assignment 03</b></span> [**30 Nov 2024**] \ 
     3.1. <span style="color:#B30000">Optimization</span>
     3.2. <span style="color:#B30000">Linear Least Squares</span>
     3.3. <span style="color:#B30000">Signal Processing</span>
     3.4. <span style="color:#B30000">Machine Learning</span>
 
-4. <span style="color:#195382"><b>Assignment 04</b></span> [**15 Dec 2024**]
+4. <span style="color:#195382"><b>Assignment 04</b></span> [**15 Dec 2024**] \ 
     4.1. <span style="color:#B30000">Linear Programming</span>
     4.2. <span style="color:#B30000">Probability & Statistics</span>
 
