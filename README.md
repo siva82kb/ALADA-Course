@@ -14,7 +14,7 @@ The course information document is here: [Course Information](info.pdf)
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Parvathy N</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><a href="https://github.com/SujithChristopher">Sujith C</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="https://github.com/SujithChristopher">Sujith C</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <span><a href="https://github.com/bkdiwakar34">Diwakar BR</a></span> &nbsp;&nbsp;&nbsp;
   <span><a href="">Neelakshi G</a></span> 
 </p>
