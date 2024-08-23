@@ -6,3 +6,5 @@ pull_updates.py
 __pycache__/*
 case_studies/data/case_study_01/reports.csv
 case_studies/private/*
+
+_private/
