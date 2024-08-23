@@ -4,7 +4,7 @@
 
 The course information document is here: [Course Information](info.pdf)
 
-### Course TAs (Aug 2024)
+### Course TAs (Aug 2024) 
 <p align="left">
   <img src="tas/parvathy.png" alt="Paravthy" width="100"/>
   <img src="tas/sujithc.png" alt="Sujith" width="100"/>
