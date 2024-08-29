@@ -33,9 +33,9 @@ The course information document is here: [Course Information](info.pdf)
 5. Case Study 01 + Applications \
 [Lecture Slides](lecture_slides/casestudy-01.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=oHCQBrHUPBg) [[2]](https://www.youtube.com/watch?v=gWg0zLkTPdk) | Notebooks: [[01]](case_studies/case_study_01.ipynb) [[01b]](case_studies/case_study_01b.ipynb)
 6. Orthogonality \
-[Lecture Slides](lecture_slides/04-orthogonality.pdf) | Video lectures: [[1](https://www.youtube.com/watch?v=u4jr59w2KE0)]
+[Lecture Slides](lecture_slides/04-orthogonality.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=u4jr59w2KE0) [[2]](https://www.youtube.com/watch?v=0x_uukwOFpI) [[3]](https://www.youtube.com/watch?v=0x_uukwOFpI)
 7. Matrix Inverses \
-[Lecture Slides](lecture_slides/05-matrixinverses.pdf) | Video lectures: [[1](https://www.youtube.com/watch?v=ER4nHeavoMY)]
+[Lecture Slides](lecture_slides/05-matrixinverses.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=ER4nHeavoMY)
 8. Application: Signal Processing \
 [Lecture Slides](lecture_slides/06-signalprocessing)
 9. Eigenvalues and Eigenvectors \
