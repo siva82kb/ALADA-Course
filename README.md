@@ -25,7 +25,7 @@ The course information document is here: [Course Information](info.pdf)
 1. Introduction \
 [Lecture Slides](lecture_slides/00-why_do_this_course.pdf) 
 2. Vectors \
-[Lecture Slides](lecture_slides/01-vector-spaces.pdf) | Video lectures: [[1]](https://youtu.be/RFObXkkr-_E?feature=shared) [[2]](https://youtu.be/-1B-MkUG2T0?feature=shared) [[3]](https://youtu.be/pcbpJQaUvjo?feature=shared) | Tutorials: [[1]](https://youtu.be/qiSqNm8fFfA?feature=shared)
+[Lecture Slides](lecture_slides/01-vector-spaces.pdf) | Video lectures: [[1]](https://youtu.be/RFObXkkr-_E?feature=shared) [[2]](https://youtu.be/-1B-MkUG2T0?feature=shared) [[3]](https://youtu.be/pcbpJQaUvjo?feature=shared) | Tutorials: [[1]](https://youtu.be/qiSqNm8fFfA?feature=shared) [[2]](https://youtu.be/GOMT7q7BlCU)
 3. Matrices \
 [Lecture Slides](lecture_slides/02-matrices.pdf) | Video lectures: [[1]](https://youtu.be/qdkebZvMi1s?feature=shared) [[2]](https://youtu.be/ZVqRk5lwkLg?feature=shared)
 4. Solution to Linear Equation \
@@ -35,7 +35,7 @@ The course information document is here: [Course Information](info.pdf)
 6. Orthogonality \
 [Lecture Slides](lecture_slides/04-orthogonality.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=u4jr59w2KE0) [[2]](https://www.youtube.com/watch?v=0x_uukwOFpI) [[3]](https://www.youtube.com/watch?v=0x_uukwOFpI)
 7. Matrix Inverses \
-[Lecture Slides](lecture_slides/05-matrixinverses.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=ER4nHeavoMY)
+[Lecture Slides](lecture_slides/05-matrixinverses.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=ER4nHeavoMY) [[2]](https://youtu.be/JgWHo9VK-94)
 8. Application: Signal Processing \
 [Lecture Slides](lecture_slides/06-signalprocessing)
 9. Eigenvalues and Eigenvectors \
