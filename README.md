@@ -75,9 +75,10 @@ All assignment-related information is available in the assignments folder of the
 1. **Assignment 01** [**30 Sep 2024**] \
     1.1 Vectors | Problems: Ch: 1, Ex: 6-13 | Data: [expt1.csv](assignments/vectors/expt1.csv) \
     1.2. Matrices | Problems: Ch: 2, Ex: 7-13 \
-    1.3. Solution to Linear \
+    1.3. Solution to Linear: Ch:3, Ex: 4-6 \
     1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
-    1.5. Orthogonality
+    1.5. Orthogonality: Ch: 4, Ex: 3-7 \
+    1.6. Matrix Inverses: Ch: 5, Ex: 1,2,6,7
 
 2. **Assignment 02** [**31 Oct 2024**] \
     2.1. Matrix Inverses \
