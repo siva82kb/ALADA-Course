@@ -72,7 +72,7 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-1. **Assignment 01** [**30 Sep 2024**] \
+1. **Assignment 01** [**10 Oct 2024**] \
     1.1 Vectors | Problems: Ch: 1, Ex: 6-13 | Data: [expt1.csv](assignments/vectors/expt1.csv) \
     1.2. Matrices | Problems: Ch: 2, Ex: 7-13 \
     1.3. Solution to Linear: Ch:3, Ex: 4-6 \
