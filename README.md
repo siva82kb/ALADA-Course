@@ -37,7 +37,7 @@ The course information document is here: [Course Information](info.pdf)
 7. Matrix Inverses \
 [Lecture Slides](lecture_slides/05-matrixinverses.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=ER4nHeavoMY) [[2]](https://youtu.be/JgWHo9VK-94)
 8. Application: Signal Processing \
-[Lecture Slides](lecture_slides/06-signalprocessing)
+[Lecture Slides](lecture_slides/06-signalprocessing.ipynb)
 9. Eigenvalues and Eigenvectors \
 [Lecture Slides](lecture_slides/07-eigenvalvec.pdf)
 10. Positive Definiteness and Matrix Norms \
