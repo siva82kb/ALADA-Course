@@ -72,32 +72,31 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 3 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-1. **Assignment 01** [**10 Oct 2024**] \
+1. **Assignment 01** [**20 Oct 2024**] \
     1.1 Vectors | Problems: Ch: 1, Ex: 6-13 | Data: [expt1.csv](assignments/vectors/expt1.csv) \
     1.2. Matrices | Problems: Ch: 2, Ex: 7-13 \
-    1.3. Solution to Linear: Ch:3, Ex: 4-6 \
-    1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
-    1.5. Orthogonality: Ch: 4, Ex: 3-7 \
-    1.6. Matrix Inverses: Ch: 5, Ex: 1,2,6,7
+    
+2. **Assignment 02** [**31 Nov 2024**] \
+    2.1. Solution to Linear: Ch:3, Ex: 4-6 \
+    2.2. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
+    2.3. Orthogonality: Ch: 4, Ex: 3-7 \
 
-2. **Assignment 02** [**31 Oct 2024**] \
-    2.1. Matrix Inverses \
-    2.2. Signal Processing \
-    2.3. Eigenvectors and Eigenvalues \
-    2.4. Linear Dynamical Systems \
-    2.5. Positive Definite Matrices \
-    2.6. SVD \
-    2.7. Dimensionality Reduction
+3. **Assignment 03** [**10 Nov 2024**] \
+    3.1. Matrix Inverses \
+    3.2. Signal Processing \
+    
+4. **Assignment 04** [**20 Nov 2024**] \
+    4.1. Eigenvectors and Eigenvalues \
+    4.2. Linear Dynamical Systems \
 
-3. **Assignment 03** [**30 Nov 2024**] \ 
-    3.1. Optimization \
-    3.2. Linear Least Squares \
-    3.3. Signal Processing \
-    3.4. Machine Learning
+5. **Assignment 05** [**30 Nov 2024**] \
+    5.1. Positive Definite Matrices \
+    5.2. SVD \
+    5.3. Dimensionality Reduction
 
-4. **Assignment 04** [**15 Dec 2024**] \ 
-    4.1. Linear Programming \
-    4.2. Probability & Statistics
+6. **Assignment 06** [**10 Dec 2024**] \ 
+    6.1. Linear Least Squares
+
 
 ### Tutorials
 We will have regular tutorial sessions to solve problems in class on topics covered until that point. The tutorials file is available [here](assignments/tutorial.pdf)
