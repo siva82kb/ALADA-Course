@@ -76,7 +76,7 @@ All assignment-related information is available in the assignments folder of the
     1.1 Vectors | Problems: Ch: 1, Ex: All problems | Data: [expt1.csv](assignments/vectors/expt1.csv) \
     1.2. Matrices | Problems: Ch: 2, Ex: All problems
     
-2. **Assignment 02** [**31 Nov 2024**] \
+2. **Assignment 02** [**31 Oct 2024**] \
     2.1. Solution to Linear: Ch:3, Ex: All problems \
     2.2. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
     2.3. Orthogonality: Ch: 4, Ex: All problems
