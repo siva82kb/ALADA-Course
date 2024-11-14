@@ -39,7 +39,7 @@ The course information document is here: [Course Information](info.pdf)
 8. Application: Signal Processing \
 [Lecture Slides](lecture_slides/06-signalprocessing.ipynb)
 9. Eigenvalues and Eigenvectors \
-[Lecture Slides](lecture_slides/07-eigenvalvec.pdf)
+[Lecture Slides](lecture_slides/07-eigenvalvec.pdf) | Video lectures: [[1]](https://www.youtube.com/watch?v=jjK2F-Btt4c) [[2]](https://www.youtube.com/watch?v=DiuAinjo4cM)
 10. Positive Definiteness and Matrix Norms \
 [Lecture Slides](lecture_slides/08-pdmatnorm.pdf)
 11. Application: Linear Dynamical Systems \
