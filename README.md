@@ -41,6 +41,7 @@ The course information document is here: [Course Information](info.pdf)
 8. Eigenvalues and Eigenvectors
 <!-- [Lecture Slides](lecture_slides/07-eigenvalvec.pdf) -->
 9. **Application**: Linear Dynamical Systems
+<!-- [Lecture Slides](lecture_slides/08-pdmatnorm.pdf) -->
 10. Positive Definiteness and Matrix Norms
 <!-- [Lecture Slides](lecture_slides/08-pdmatnorm.pdf) -->
 11. Singular Value Decomposition
@@ -50,9 +51,13 @@ The course information document is here: [Course Information](info.pdf)
 13. Linear Least Squares and its Variants
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
 14. **Application**: Signal Processing, CT Reconstruction
+<!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
 15. Probability and Statistics
+<!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
 16. Linear Regression Models
+<!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
 17. **Application**: Machine Learning
+<!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
 18. Outro
 
 ### Course Notes
