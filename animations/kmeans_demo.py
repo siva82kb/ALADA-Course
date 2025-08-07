@@ -13,13 +13,16 @@ import matplotlib.gridspec as gridspec
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
 import platform
 if platform.system() == "Windows":
-    mpl.rc('font',**{'family':'Times New Roman', 'sans-serif': 'Arial'})
+    mpl.rcParams['font.family'] = 'sans-serif'
+    mpl.rcParams['font.sans-serif'] = ['Arial', 'DejaVu Sans', 'Liberation Sans']
 else:
-    mpl.rc('font',**{'family':'Helvetica', 'sans-serif': 'Helvetica'})
+    mpl.rcParams['font.family'] = 'sans-serif'
+    mpl.rcParams['font.sans-serif'] = ['Helvetica', 'DejaVu Sans', 'Liberation Sans']
 mpl.rcParams['toolbar'] = 'None' 
 
 import sys
-sys.path.append("../")
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from aladalib import chap01 as ch01
 
 
@@ -139,7 +142,7 @@ def update_text():
         return
     j = 0
     ax2.text(xpos, ypos - j * delypos,
-             f"k = {k:2d} \t Iteration = {iter:2d}",
+             f"k = {k:2d}    Iteration = {iter:2d}",
              fontsize=14)
     j += 1
     ax2.text(xpos, ypos - j * delypos,
