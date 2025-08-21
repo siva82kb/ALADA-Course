@@ -71,21 +71,21 @@ All assignment-related information is available in the assignments folder of the
 
 1. **Assignment 01** [**28 Aug 2025**] \
     1.1 Vectors | Problems: Ch: 1, Ex: All problems | Data: [expt1.csv](assignments/vectors/expt1.csv) \
-    1.2. Matrices | Problems: Ch: 2, Ex: All problems
+    1.2. Matrices | Problems: Ch: 2, Ex: All problems \
     1.3. Solution to Linear: Ch:3, Ex: All problems \
-    1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) \
+    1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) 
     
 2. **Assignment 02** [**15 Sep 2025**] \
-    2.1. Orthogonality: Ch: 4, Ex: All problems
+    2.1. Orthogonality: Ch: 4, Ex: All problems \
     2.2. Matrix Inverses \
-    2.3. Signal Processing
+    2.3. Signal Processing \
     2.4. Eigenvectors and Eigenvalues \
     2.5. Linear Dynamical Systems
 
 3. **Assignment 03** [**6 Oct 2025**] \
     3.1. Positive Definite Matrices \
     3.2. SVD \
-    3.3. Dimensionality Reduction
+    3.3. Dimensionality Reduction \
     3.4. Linear Least Squares
     
 4. **Assignment 04** [**20 Oct 2025**] \
