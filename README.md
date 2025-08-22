@@ -4,7 +4,7 @@
 
 The course information document is here: [Course Information](info.pdf)
 
-### Course TAs (Aug 2024) 
+### Course TAs (Aug 2025) 
 <p align="left">
   <img src="tas/parvathy.png" alt="Parvathy" width="100"/>
   <img src="tas/neelakshi.png" alt="Neelakshi" width="100"/>
@@ -13,9 +13,9 @@ The course information document is here: [Course Information](info.pdf)
 </p>
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Parvathy N</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span><a href="">Neelakshi G</a></span> 
-  <span><a href="https://github.com/SujithChristopher">Sujith C</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;<span><a href="https://github.com/ParvN">Parvathy N</a></span> &nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="">Neelakshi G</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span><a href="https://github.com/SujithChristopher">Sujith C</a></span> 
   <!-- <span><a href="https://github.com/bkdiwakar34">Diwakar BR</a></span> &nbsp;&nbsp;&nbsp; -->
 </p>
 
@@ -23,11 +23,14 @@ The course information document is here: [Course Information](info.pdf)
 ### Course Modules
 
 1. Introduction \
-[Lecture Slides](lecture_slides/00-why_do_this_course.pdf) 
+[Lecture Slides](lecture_slides/00-why_do_this_course.pdf)  
+Lecture Videos [[1]](https://www.youtube.com/watch?v=RZITINX9DMU) 
 2. Vectors \
-[Lecture Slides](lecture_slides/01-vector-spaces.pdf)
+[Lecture Slides](lecture_slides/01-vector-spaces.pdf)  
+Lecture Videos [[1]](https://youtu.be/RZITINX9DMU?feature=shared&t=3173) | [[2]](https://www.youtube.com/watch?v=kkDkufnaZ_0) | [[3]](https://www.youtube.com/watch?v=P3iAErfeTDo) | [[4]](https://www.youtube.com/watch?v=j0_tLLA9JGo)
 3. Matrices \
-[Lecture Slides](lecture_slides/02-matrices.pdf)
+[Lecture Slides](lecture_slides/02-matrices.pdf)  
+Lecture Videos [[1]](https://www.youtube.com/watch?v=UWm32egbU-8) | [[2]](https://www.youtube.com/watch?v=NIMOAOXc1xQ) | [[3]](https://www.youtube.com/watch?v=0OP5MH2blMA)
 4. Solution to Linear Equation \
 [Lecture Slides](lecture_slides/03-solnslineareqns.pdf)
 <!-- 5. Case Study 01 + Applications \ -->
@@ -69,13 +72,13 @@ A one-page summary of the course can be found [here](notes/onepage.pdf). This do
 ### Assignments
 All assignment-related information is available in the assignments folder of the repository. The assignment problems can be found in the individual chapters of the course [notes](notes/aladanotes.pdf). All assignments will be due by 11:59 PM on the due date. You have 5 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
-1. **Assignment 01** [**28 Aug 2025**] \
+1. **Assignment 01** [**30 Aug 2025**] \
     1.1 Vectors | Problems: Ch: 1, Ex: All problems | Data: [expt1.csv](assignments/vectors/expt1.csv) \
     1.2. Matrices | Problems: Ch: 2, Ex: All problems \
     1.3. Solution to Linear: Ch:3, Ex: All problems \
     1.4. Case Study 01 | Problems: [[CS01](case_studies/case_study_01.ipynb)] [[CS01b](case_studies/case_study_01b.ipynb)] | Data: [tokens-010.txt](case_studies/data/case_study_01/tokens-010.txt), [tokens-025.txt](case_studies/data/case_study_01/tokens-025.txt) 
     
-2. **Assignment 02** [**15 Sep 2025**] \
+2. **Assignment 02** [**15 Sep 2025** (tentative)] \
     2.1. Orthogonality: Ch: 4, Ex: All problems \
     2.2. Matrix Inverses \
     2.3. Signal Processing \
@@ -105,7 +108,7 @@ We will have regular tutorial sessions to solve problems in class on topics cove
 All assignments must be submitted as soft copies on the [submission portal]().
 
 ### Exam Dates
-**Mid-Semester Exams:** 28 August, 18 September, 23 November.
+**Mid-Semester Exams:** 4 September, 18 September (tentative), 23 November.
 
 **Final Exam:** 27 November 2025
 
