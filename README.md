@@ -30,35 +30,37 @@ The course information document is here: [Course Information](info.pdf)
 [Lecture Slides](lecture_slides/02-matrices.pdf)
 4. Solution to Linear Equation \
 [Lecture Slides](lecture_slides/03-solnslineareqns.pdf)
+5. Gaussian Elimination \
+[Lecture Slides](lecture_slides/04-gausselim.pdf)
 <!-- 5. Case Study 01 + Applications \ -->
 <!-- [Lecture Slides](lecture_slides/casestudy-01.pdf) -->
-5. Orthogonality
+6. Orthogonality
 <!-- [Lecture Slides](lecture_slides/04-orthogonality.pdf) -->
-6. Matrix Inverses
+7. Matrix Inverses
 <!-- [Lecture Slides](lecture_slides/05-matrixinverses.pdf) -->
-7. **Application**: Signal Processing
+8. **Application**: Signal Processing
 <!-- [Lecture Slides](lecture_slides/06-signalprocessing.ipynb) -->
-8. Eigenvalues and Eigenvectors
+9. Eigenvalues and Eigenvectors
 <!-- [Lecture Slides](lecture_slides/07-eigenvalvec.pdf) -->
-9. **Application**: Linear Dynamical Systems
+10. **Application**: Linear Dynamical Systems
 <!-- [Lecture Slides](lecture_slides/08-pdmatnorm.pdf) -->
-10. Positive Definiteness and Matrix Norms
+11. Positive Definiteness and Matrix Norms
 <!-- [Lecture Slides](lecture_slides/08-pdmatnorm.pdf) -->
-11. Singular Value Decomposition
+12. Singular Value Decomposition
 <!-- [Lecture Slides](lecture_slides/10-svd.pdf) -->
-12. **Application**: Dimensionality Reduction & PCA
+13. **Application**: Dimensionality Reduction & PCA
 <!-- [Lecture Slides](lecture_slides/11-dimredpca.pdf) -->
-13. Linear Least Squares and its Variants
+14. Linear Least Squares and its Variants
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
-14. **Application**: Signal Processing, CT Reconstruction
+15. **Application**: Signal Processing, CT Reconstruction
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
-15. Probability and Statistics
+16. Probability and Statistics
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
-16. Linear Regression Models
+17. Linear Regression Models
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
-17. **Application**: Machine Learning
+18. **Application**: Machine Learning
 <!-- [Lecture Slides](lecture_slides/12-opt.pdf) -->
-18. Outro
+19. Outro
 
 ### Course Notes
 The notes for the course can be found here: [ALADA Notes](notes/aladanotes.pdf)
