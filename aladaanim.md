@@ -1,4 +1,4 @@
-## ALADA Animation
+<!-- ## ALADA Animation
 
 The folder `animations` in the root directory contains a set of interactive animations for the different concepts covered in the ALADA course. The animations are created using the `matplotlib` library in Python. All interaction with these animations is done through the keyboard. 
 
@@ -20,7 +20,7 @@ conda activate alada
 You should now be able to run the different scripts to open the animations and interact with them.
 
 ### K-Mean Algorithm
-**k-Means Demo**: [`kmeans_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/kmeans_demo.py)
+**k-Means Demo**: [`kmeans_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/kmeans_demo.py) -->
 
 <!-- ### Continuous Optimization Animations
 The following animations are available for the continuous optimization section:
