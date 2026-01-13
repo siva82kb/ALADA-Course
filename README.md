@@ -17,6 +17,9 @@ The course information document is here: [Course Information](info.pdf)
 [Lecture 01](lecture_slides/linsysmatop-01.pdf) | [Lecture 02](lecture_slides/linsysmatop-02.pdf)  
 
 
+### Quizes
+All the quizes that have been conducted so far can be found [here](quizes/quiz.pdf).
+
 ### Tutorial and Assignments
 You can find all the tutorials and assignments [here](assignments/problems.pdf).\
 All assignments will be due by 11:59 PM on the due date. You have 5 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
