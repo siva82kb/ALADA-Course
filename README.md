@@ -14,7 +14,7 @@ The course information document is here: [Course Information](info.pdf)
 ### Course Modules
 
 **Linear Systems and Matrix Operations**  \
-[Lecture 01](lecture_slides/linsysmatop-01.pdf) | [Lecture 02](lecture_slides/linsysmatop-02.pdf)  
+[Lecture 01](lecture_slides/linsysmatop-01.pdf) | [Lecture 02](lecture_slides/linsysmatop-02.pdf) | [Lecture 03](lecture_slides/linsysmatop-013.pdf) | [Lecture 04](lecture_slides/linsysmatop-04.pdf)  
 
 
 ### Quizes
