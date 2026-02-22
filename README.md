@@ -19,6 +19,9 @@ The course information document is here: [Course Information](info.pdf)
 **Orthogonality**  \
 [Part 01](lecture_slides/orthogonality.pdf) 
 
+**Matrix Inverses**  \
+[Part 01](lecture_slides/matrixinverses-01.pdf) 
+
 
 ### Quizes
 All the quizes that have been conducted so far can be found [here](quizes/quiz.pdf).
