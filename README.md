@@ -22,6 +22,9 @@ The course information document is here: [Course Information](info.pdf)
 **Matrix Inverses**  \
 [Part 01](lecture_slides/matrixinverses-01.pdf) 
 
+**Case Study**  \
+[Part 01](lecture_slides/casestudy-01.pdf) 
+
 
 ### Quizes
 All the quizes that have been conducted so far can be found [here](quizes/quiz.pdf).
