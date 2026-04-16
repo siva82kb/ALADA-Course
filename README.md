@@ -40,6 +40,7 @@ We have provided an ipython file with boilerplate code for the least squares ass
 3. `trialtactpos.csv`: [Dataset](assignments/leastsq/trialtactpos.csv) of the true position of a moving object.
 4. `trailctrlpos.csv`: [Dataset](assignments/leastsq/trailctrlpos.csv) containing the fixed locations from which distance of the moving object are measured.
 5. `trialtdist.csv`: [Dataset](assignments/leastsq/trialtdist.csv) with the distance measurements of a moving object from a set of fixed position.
+6. `polyfitweighted.csv`: [Dataset](assignments/leastsq/polyfitweighted.csv) for polynomial fitting using weighted least squares.
 
 Download all the files onto your computer. Open the notebook file in Google Colab, and run the to upload the data files. Once, that is done you cna then work with th rest of the file to solve the assingment problems.
 
