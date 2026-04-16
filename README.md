@@ -33,6 +33,16 @@ All the quizes that have been conducted so far can be found [here](quizes/quiz.p
 You can find all the tutorials and assignments [here](assignments/problems.pdf).\
 All assignments will be due by 11:59 PM on the due date. You have 5 late days to use throughout the semester. Each late day extends the deadline by 24 hours. After the late days are used, late submissions will not be accepted.
 
+#### Least Sqaures Assignment Files
+We have provided an ipython file with boilerplate code for the least squares assignment. You can find it [here](assignments/leastsq/04-lls-01.ipynb), along with the following data files:
+1. `polyfit.csv`: [Dataset](assignments/leastsq/polyfit.csv) for polynomial fitting.
+2. `timeseries.csv`: [Dataset](assignments/leastsq/timeseries.csv) for time series fitting.
+3. `trialtactpos.csv`: [Dataset](assignments/leastsq/trialtactpos.csv) of the true position of a moving object.
+4. `trailctrlpos.csv`: [Dataset](assignments/leastsq/trailctrlpos.csv) containing the fixed locations from which distance of the moving object are measured.
+5. `trialtdist.csv`: [Dataset](assignments/leastsq/trialtdist.csv) with the distance measurements of a moving object from a set of fixed position.
+
+Download all the files onto your computer. Open the notebook file in Google Colab, and run the to upload the data files. Once, that is done you cna then work with th rest of the file to solve the assingment problems.
+
 #### Additional problems
 Here are some additional problems to test your understanding of the course materials.
 1. [k-Means Clustering](case_studies/case_study_01.ipynb): A notebook on k-means clustering of doctors' notes.
