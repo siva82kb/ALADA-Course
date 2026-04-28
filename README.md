@@ -20,11 +20,22 @@ The course information document is here: [Course Information](info.pdf)
 [Part 01](lecture_slides/orthogonality.pdf) 
 
 **Matrix Inverses**  \
-[Part 01](lecture_slides/matrixinverses-01.pdf) 
+[Part 01](lecture_slides/matrixinverses.pdf) 
 
-**Case Study**  \
-[Part 01](lecture_slides/casestudy-01.pdf) 
+<!-- **Case Study**  \
+[Part 01](lecture_slides/casestudy-01.pdf)  -->
 
+**Least Squares**  \
+[Part 01](lecture_slides/leastsq.pdf) 
+
+**Eigenvalues and Eigenvectors**  \
+[Part 01](lecture_slides/eigenvalvec.pdf) 
+
+**Eigenvalues and Eigenvectors Applications**  \
+[Part 01](lecture_slides/eigenvalvecappln.pdf) 
+
+**Positive Definite Matrices & Matrix Norms**  \
+[Part 01](lecture_slides/pdmatnorm.pdf) 
 
 ### Quizes
 All the quizes that have been conducted so far can be found [here](quizes/quiz.pdf).
@@ -78,6 +89,8 @@ You should now be able to run the different scripts to open the animations and i
 1. **k-Means Demo**: [`kmeans_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/kmeans_demo.py)
 2. **k-Nearest Neighbors Classifier Demo**: [`knn_class_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/knn_class_demo.py)
 3. **k-Nearest Neighbors Regression Demo**: [`knn_reg_demo.py`](https://github.com/siva82kb/ALADA-Course/blob/main/animations/knn_reg_demo.py)
+4. **Discrete-time Linear Dynamical System Demo**: [DT LDS Demo](https://siva82kb.github.io/alada-anim/lds-zero-input.html)
+5. **Continuous-time Linear Dynamical System Demo**: [CT LDS Demo](https://siva82kb.github.io/alada-anim/lds-continuous-zero-input.html)
 
 
 <!-- ### Continuous Optimization Animations
