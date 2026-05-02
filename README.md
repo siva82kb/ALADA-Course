@@ -94,6 +94,12 @@ You should now be able to run the different scripts to open the animations and i
 1. **Discrete-time Linear Dynamical System Demo**: [DT LDS Demo](https://siva82kb.github.io/alada-anim/lds-zero-input.html)
 2. **Continuous-time Linear Dynamical System Demo**: [CT LDS Demo](https://siva82kb.github.io/alada-anim/lds-continuous-zero-input.html)
 
+### Positive Definite Matrices
+1. **Visualization of quadratic forms**: [Quadratic forms](https://siva82kb.github.io/alada-anim/positive-definite.html)
+
+### Induced Matrix Norms
+2. **Induced Matrix Norms**: [Induced Matrix Norm](https://siva82kb.github.io/alada-anim/matrix-norm.html)
+
 
 <!-- ### Continuous Optimization Animations
 The following animations are available for the continuous optimization section:
